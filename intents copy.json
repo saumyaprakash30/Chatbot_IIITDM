@@ -1,0 +1,60 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hey", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+     "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?", "Hello! I'm Dexter. How may I help you?", "Hey there!"],
+     "context_set": ""
+    },
+    {"tag": "about",
+        "patterns": ["about","Tell me about college","about iiitdm kanceepuram","tell me about iiitdm","about this college","Institute Information Booklet","Institute Statutes","IIIT Act","Ordinances of IIITDM Kancheepuram","Annual Reports"],
+        "responses": [],
+        "context_set": ""
+    },
+    {"tag": "why_iiitdm",
+        "patterns": ["Why study in IIITDM Kancheepuram?","why study in this college?","is iiitdm kancceepuram good?","why this college?"],
+        "responses": [],
+        "context_set": ""
+    },
+    {"tag": "admission_iiitdm",
+        "patterns": ["admission","want to take admission in iiitdm","want to take admission", "how to get admission in iiitdm","What program offered by college","Admission at IIITDM Kancheepuram","Admission at IIITDM ","'Admission in college","Show me program offered by college","What program offered by IIITDM Kanceepuram","show me program offered by IIITDM Kanceepuram","What are the branches offered","What are the streams available","Which branches offered?","show me stream offered", "tell me stream or branhes offered"],
+        "responses": [],
+        "context_set": ""
+    },
+    {"tag": "undergraduate_admission",
+        "patterns": ["Undergraduate Admissions","want to take admission in undergraduate","UG admission","how to get admission in Undergraduate", "how to apply for Undergraduate ","List Of Programmes Offered in undergraduate","Opening and Closing Ranks for undergraduate "],
+        "responses": [],
+        "context_set": ""
+    },
+    {"tag": "dual_degree_admissions",
+        "patterns": ["Dual Degree Admissions","want to take admission in dual degree","DD admission","how to get admission in Dual Degree", "how to apply for Dual Degree ","List Of Programmes Offered in Dual Degree","Opening and Closing Ranks for Dual Degree "],
+        "responses": [],
+        "context_set": ""
+    },
+    {"tag": "postgraduate_admissions",
+        "patterns": ["Postgraduate  Admissions","PG admission","want to take admission in post graduate","how to get admission in Postgraduate ", "how to apply for Postgraduate  ","List Of Programmes Offered in Postgraduate ","Assistantship Opportunity for postgraduate pg ","Assistantship Opportunity"],
+        "responses": [],
+        "context_set": ""
+    },
+    {"tag": "doctoral_admissions",
+        "patterns": ["Doctoral Admissions","Doctoral  Admissions","want to take admission in doctoral","want to take admission in phd","Ph.D admission","how to get admission in Doctoral ", "how to apply for Doctoral  ","Assistantship Opportunity for Doctoral ","Assistantship Opportunity", "Degree Completition Requirements for Doctoral","Degree Completition Requirements for Phd"],
+        "responses": [],
+        "context_set": ""
+    },
+    {"tag": "curriculum",
+        "patterns": ["'Academic Curriculum","Curriculum","Design Centric Engineering Education","Curriculum and Syllabus","Electives","List of Elective Courses","Download List of Online Elective Courses"],
+        "responses": [],
+        "context_set": ""
+    },
+    {"tag": "",
+        "patterns": [],
+        "responses": [],
+        "context_set": ""
+    },
+    {"tag": "",
+        "patterns": [],
+        "responses": [],
+        "context_set": ""
+    }
+    
+    
+]
+}

@@ -908,6 +908,40 @@
             ],
             "responses": [],
             "context_set": ""
+        },
+        {
+            "tag": "academic_calender",
+            "patterns": [
+                "Academic Calendar",
+                "show me Academic Calendar",
+                "find Academic Calendar",
+                "show me holidays",
+                "Academic Calendar of iiitdm kancheepuram",
+                "Academic Calendar of college"
+
+            ],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "contact",
+            "patterns": [
+                "contact",
+                "contact IIITDM",
+                "how to contact iiitdm",
+                "tell phone number of iiitdm",
+                "tell mobile number of iiitdm",
+                "tell phone number of college",
+                "tell mobile number of college",
+                "contact email of iiitdm",
+                "connect iiitdm",
+                "iiitdm office email",
+                "college office email"
+
+
+            ],
+            "responses": [],
+            "context_set": ""
         }
     ]
 }

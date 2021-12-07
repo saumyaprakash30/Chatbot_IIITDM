@@ -1,0 +1,13 @@
+<div class="card text-white bg-success mb-3" style="width: 18rem;">
+    <h6 class="card-header">Bot</h6>
+    <div *ngFor="let item of data.dictionary | keyvalue">
+        <div class="card-header">
+            {{item.key}}
+          </div>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item"> <a  href="{{item.value}}">download</a>
+            </li>
+          </ul>
+    </div>
+  </div>
+  

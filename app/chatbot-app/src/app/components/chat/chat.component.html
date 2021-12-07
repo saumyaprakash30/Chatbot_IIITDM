@@ -1,0 +1,12 @@
+<div class="main container pt-1">
+    <div class="header">
+        <div class="mt-2">IIITDM Chatbot</div>
+    </div>
+    <div class="messageView">
+        <app-messages-view [botMessageRecved]="clickedEvent" [botYouMessageRecved]="clickedYouMessageEvent" ></app-messages-view>
+        
+    </div>
+    <div class="messageForm ">
+        <app-message-form (botMessage)="childBoTMessageRecved($event)" (youMessage)="childYouMessageRecved($event)" ></app-message-form>
+    </div>
+</div>

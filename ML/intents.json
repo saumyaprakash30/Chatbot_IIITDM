@@ -57,18 +57,18 @@
                 "want to take admission in iiitdm",
                 "want to take admission",
                 "how to get admission in iiitdm",
-                "What program fered by college",
+                "What program offered by college",
                 "Admission at IIITDM Kancheepuram",
                 "Admission at IIITDM ",
                 "Admission in college",
-                " program fered by college",
-                "What program fered by IIITDM Kanceepuram",
-                " program fered by IIITDM Kanceepuram",
-                "What are the branches fered",
+                " program offered by college",
+                "What program offered by IIITDM Kanceepuram",
+                " program offered by IIITDM Kanceepuram",
+                "What are the branches offered",
                 "What are the streams available",
-                "Which branches fered?",
-                " stream fered",
-                " stream or branhes fered"
+                "Which branches offered?",
+                " stream offered",
+                " stream or branhes offered"
             ],
             "responses": [],
             "context_set": ""
@@ -81,8 +81,14 @@
                 "UG admission",
                 "how to get admission in Undergraduate",
                 "how to apply for Undergraduate ",
-                "List  Programmes fered in undergraduate",
-                "Opening and Closing Ranks for undergraduate "
+                "List of Programmes offered in undergraduate",
+                "Opening and Closing Ranks for undergraduate ",
+                "ug Admissions",
+                "want to take admission in ug",
+                "how to get admission in ug",
+                "how to apply for ug ",
+                "List of Programmes offered in ug",
+                "Opening and Closing Ranks for ug "
             ],
             "responses": [],
             "context_set": ""
@@ -95,8 +101,14 @@
                 "DD admission",
                 "how to get admission in Dual Degree",
                 "how to apply for Dual Degree ",
-                "List  Programmes fered in Dual Degree",
-                "Opening and Closing Ranks for Dual Degree "
+                "List  Programmes offered in Dual Degree",
+                "Opening and Closing Ranks for Dual Degree ",
+                "want to take admission in dd",
+                "DD admission",
+                "how to get admission in dd",
+                "how to apply for dd ",
+                "List  Programmes offered in dd",
+                "Opening and Closing Ranks for dd "
             ],
             "responses": [],
             "context_set": ""
@@ -109,9 +121,13 @@
                 "want to take admission in post graduate",
                 "how to get admission in Postgraduate ",
                 "how to apply for Postgraduate  ",
-                "List  Programmes fered in Postgraduate ",
-                "Assistantship Opportunity for postgraduate pg ",
-                "Assistantship Opportunity"
+                "List  Programmes offered in Postgraduate ",
+                "want to take admission in pg",
+                "how to get admission in pg ",
+                "how to apply for pg  ",
+                "List  Programmes offered in pg ",
+                "Assistantship Opportunity for postgraduate ",
+                "Assistantship Opportunity for pg"
             ],
             "responses": [],
             "context_set": ""
@@ -178,7 +194,14 @@
                 "gpa calculation",
                 "grading scheme",
                 "weightage of exams",
-                "letter grades and associated points"
+                "letter grades and associated points",
+                "grade letter meaning",
+                "how to calculate cgpa",
+                "how to calculate gpa",
+                "what is the evaluation process",
+                "tell me about evaluation",
+                "tell me about grading system",
+                "tell me how grades are calculated"
             ],
             "responses": [],
             "context_set": ""
@@ -192,6 +215,8 @@
                 "which program for Undergraduate offered by iiitdm",
                 "which program for Undergraduate offered by college",
                 "tell me about Undergraduate Programs",
+                "list of unergraduate programs",
+                "list of ug programs",
                 "UG Programs",
                 "about UG Programs",
                 "show UG Programs",
@@ -199,15 +224,65 @@
                 "which program for UG offered by college",
                 "tell me about UG Programs",
                 "BTech in Computer Science and Engineering",
+                "BTech in CSE",
                 "BTech in Electronics and Communication Engineering",
+                "BTech in ECE",
                 "BTech in Mechanical Engineering",
+                "BTech in ME",
                 "BTech in Smart Manufacturing",
+                "BTech in SM",
                 "BTech in Computer Science and Engineering with specialization in Artificial Intelligence",
+                "BTech in CSE with specialization in Artificial Intelligence",
                 "Bachelor of Technology in Computer Science and Engineering",
                 "Bachelor of Technology in Electronics and Communication Engineering",
                 "Bachelor of Technology in Mechanical Engineering",
                 "Bachelor of Technology in Smart Manufacturing",
-                "Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence"
+                "Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence",
+                "Bachelor of Technology in CSE",
+                "Bachelor of Technology in ECE",
+                "Bachelor of Technology in ME",
+                "Bachelor of Technology in SM",
+                "Bachelor of Technology in CSE with specialization in Artificial Intelligence",
+                "about BTech in Computer Science and Engineering",
+                "about BTech in CSE",
+                "about BTech in Electronics and Communication Engineering",
+                "about BTech in ECE",
+                "about BTech in Mechanical Engineering",
+                "about BTech in ME",
+                "about BTech in Smart Manufacturing",
+                "about BTech in SM",
+                "about BTech in Computer Science and Engineering with specialization in Artificial Intelligence",
+                "about BTech in CSE with specialization in Artificial Intelligence",
+                "about Bachelor of Technology in Computer Science and Engineering",
+                "about Bachelor of Technology in Electronics and Communication Engineering",
+                "about Bachelor of Technology in Mechanical Engineering",
+                "about Bachelor of Technology in Smart Manufacturing",
+                "about Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence",
+                "about Bachelor of Technology in CSE",
+                "about Bachelor of Technology in ECE",
+                "about Bachelor of Technology in ME",
+                "about Bachelor of Technology in SM",
+                "about Bachelor of Technology in CSE with specialization in Artificial Intelligence",
+                "Computer Science and Engineering",
+                "CSE",
+                "Electronics and Communication Engineering",
+                "ECE",
+                "Mechanical Engineering",
+                "ME",
+                "Smart Manufacturing",
+                "SM",
+                "Computer Science and Engineering with specialization in Artificial Intelligence",
+                "CSE with specialization in Artificial Intelligence",
+                "about Computer Science and Engineering",
+                "about Electronics and Communication Engineering",
+                "about Mechanical Engineering",
+                "about Smart Manufacturing",
+                "about Computer Science and Engineering with specialization in Artificial Intelligence",
+                "about CSE",
+                "about ECE",
+                "about ME",
+                "about SM",
+                "about CSE with specialization in Artificial Intelligence"
             ],
             "responses": [],
             "context_set": ""
@@ -240,11 +315,46 @@
                 "B Tech  Electronics and Communication Engineering with Specialization in Design and Manufacturing  M Tech Signal Processing and Communication System Design",
                 "B Tech  Mechanical Engineering with Specialization in Design and Manufacturing  M Tech Product Design",
                 "B Tech  Mechanical Engineering with Specialization in Design and Manufacturing  M Tech Advanced Manufacturing",
+                "BTech  Computer Engineering  M Tech Computer Engineering",
+                "BTech  Electronics and Communication Engineering with Specialization in Design and Manufacturing  M Tech VLSI and Electronic System Design",
+                "BTech  Electronics and Communication Engineering with Specialization in Design and Manufacturing  M Tech Signal Processing and Communication System Design",
+                "BTech  Mechanical Engineering with Specialization in Design and Manufacturing  M Tech Product Design",
+                "BTech  Mechanical Engineering with Specialization in Design and Manufacturing  M Tech Advanced Manufacturing",
                 "Bachelor of Technology Computer Engineering  master of Technology Computer Engineering",
                 "Bachelor of Technology Electronics and Communication Engineering with Specialization in Design and Manufacturing  master of Technology VLSI and Electronic System Design",
                 "Bachelor of Technology Electronics and Communication Engineering with Specialization in Design and Manufacturing  master of Technology Signal Processing and Communication System Design",
                 "Bachelor of Technology Mechanical Engineering with Specialization in Design and Manufacturing  master of Technology Product Design",
-                "Bachelor of Technology Mechanical Engineering with Specialization in Design and Manufacturing  master of Technology Advanced Manufacturing"
+                "Bachelor of Technology Mechanical Engineering with Specialization in Design and Manufacturing  master of Technology Advanced Manufacturing",
+                "about BTech  Computer Engineering  M Tech Computer Engineering",
+                "about BTech  Electronics and Communication Engineering with Specialization in Design and Manufacturing  M Tech VLSI and Electronic System Design",
+                "about BTech  Electronics and Communication Engineering with Specialization in Design and Manufacturing  M Tech Signal Processing and Communication System Design",
+                "about BTech  Mechanical Engineering with Specialization in Design and Manufacturing  M Tech Product Design",
+                "about BTech  Mechanical Engineering with Specialization in Design and Manufacturing  M Tech Advanced Manufacturing",
+                "about Bachelor of Technology Computer Engineering  master of Technology Computer Engineering",
+                "about Bachelor of Technology Electronics and Communication Engineering with Specialization in Design and Manufacturing  master of Technology VLSI and Electronic System Design",
+                "about Bachelor of Technology Electronics and Communication Engineering with Specialization in Design and Manufacturing  master of Technology Signal Processing and Communication System Design",
+                "about Bachelor of Technology Mechanical Engineering with Specialization in Design and Manufacturing  master of Technology Product Design",
+                "about Bachelor of Technology Mechanical Engineering with Specialization in Design and Manufacturing  master of Technology Advanced Manufacturing",
+                "BTech  CE  mtech CE",
+                "BTech  ece with Specialization in Design and Manufacturing  mtech VLSI and Electronic System Design",
+                "BTech  ece with Specialization in Design and Manufacturing  mtech Signal Processing and Communication System Design",
+                "BTech  me with Specialization in Design and Manufacturing  mtech Product Design",
+                "BTech  me with Specialization in Design and Manufacturing  mtech Advanced Manufacturing",
+                "Bachelor of Technology CE  master of Technology CE",
+                "Bachelor of Technology ece with Specialization in Design and Manufacturing  master of Technology VLSI and Electronic System Design",
+                "Bachelor of Technology ece with Specialization in Design and Manufacturing  master of Technology Signal Processing and Communication System Design",
+                "Bachelor of Technology me with Specialization in Design and Manufacturing  master of Technology Product Design",
+                "Bachelor of Technology me with Specialization in Design and Manufacturing  master of Technology Advanced Manufacturing",
+                "about BTech  CE  mtech CE",
+                "about BTech  ece with Specialization in Design and Manufacturing  mtech VLSI and Electronic System Design",
+                "about BTech  ece with Specialization in Design and Manufacturing  mtech Signal Processing and Communication System Design",
+                "about BTech  me with Specialization in Design and Manufacturing  mtech Product Design",
+                "about BTech  me with Specialization in Design and Manufacturing  mtech Advanced Manufacturing",
+                "about Bachelor of Technology CE  master of Technology CE",
+                "about Bachelor of Technology ece with Specialization in Design and Manufacturing  master of Technology VLSI and Electronic System Design",
+                "about Bachelor of Technology ece with Specialization in Design and Manufacturing  master of Technology Signal Processing and Communication System Design",
+                "about Bachelor of Technology me with Specialization in Design and Manufacturing  master of Technology Product Design",
+                "about Bachelor of Technology me with Specialization in Design and Manufacturing  master of Technology Advanced Manufacturing"
             ],
             "responses": [],
             "context_set": ""
@@ -326,12 +436,17 @@
                 "give information about ph.d Programs",
                 "information about ph.d Programs",
                 "Research Areas for doctoral",
-                "Research Areas for doctorals",
+                "Research Area for doctorals",
                 "show Research Areas for doctoral",
+                "show Research Area for doctoral",
                 "tell Research Areas for doctoral",
+                "tell Research Area for doctoral",
                 "what are the Research Areas for doctoral",
                 "what are the Research Areas for doctoral offered by iiitdm",
-                "what are the Research Areas for doctoral offered by college"
+                "what are the Research Areas for doctoral offered by college",
+                "what are the Research Area for doctoral",
+                "what are the Research Area for doctoral offered by iiitdm",
+                "what are the Research Area for doctoral offered by college"
             ],
             "responses": [],
             "context_set": ""
@@ -387,16 +502,11 @@
                 "PhD. Synopsis & Thesis",
                 "Hostel Forms",
                 "Guest Request Form",
-               " Hostel Late Night Entry Request Form",               
+                " Hostel Late Night Entry Request Form",
                 "Hostel Request Form During Vacation",
                 "Stduent Leave Approval Form",
                 "Stduent Leave Approval Form (At the time of leaving the hostel)",
                 "Requisition for Hostel Accommodation (For Students or Special Purposes)"
-                
-                
-
-
-
             ],
             "responses": [],
             "context_set": ""
@@ -424,9 +534,6 @@
                 "which room  i will sit in tomorrow exam",
                 "which hall i will sit in today exam",
                 "which hall i will sit in tomorrow exam"
-                
-
-
             ],
             "responses": [],
             "context_set": ""
@@ -445,7 +552,6 @@
                 "Industrial Consultancy and Sponsored Research ",
                 "Industrial Consultancy and Sponsored Research at iiitdm kanceepuram",
                 "Industrial Consultancy and Sponsored Research at college"
-
             ],
             "responses": [],
             "context_set": ""
@@ -477,6 +583,16 @@
                 "tell me about campus",
                 "tell me about Campus life in college",
                 "about Campus life",
+                "campus tour",
+                "show campus tour video",
+                "show college 360 street view"
+            ],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "hostel",
+            "patterns": [
                 "hostel",
                 "hostel of iiitdm",
                 "hostel life",
@@ -484,7 +600,14 @@
                 "tell me about hostel",
                 "show me about hostel",
                 "Rules and Regulations for Hostel Residents",
-                "Rules and Regulations for Hostel ",
+                "Rules and Regulations for Hostel "
+            ],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "infrastructure",
+            "patterns": [
                 "Infrastructure",
                 "Infrastructure of iiitdm",
                 "about Infrastructure",
@@ -513,20 +636,19 @@
                 "tell me about Dining and Shopping",
                 "show me about Dining and Shopping",
                 "Medical Aid Centre",
+                "Medical Centre",
+                "about Medical Centre",
                 "Medical Aid Centre of iiitdm",
                 "about Medical Aid Centre",
                 "tell me about Medical Aid Centre",
                 "show me about Medical Aid Centre",
+                "medical assistance",
+                "atm",
                 "ATM Facility",
                 "ATM Facility of iiitdm",
                 "about ATM Facility",
                 "tell me about ATM Facility",
                 "show me about ATM Facility"
-                
-
-
-
-
             ],
             "responses": [],
             "context_set": ""
@@ -543,6 +665,9 @@
                 "which day of mess has non veg menu",
                 "mess",
                 "mess of iiitdm",
+                "mess in college",
+                "about mess food in college",
+                "about mess food",
                 "about mess",
                 "tell me about mess",
                 "show me about mess",
@@ -612,9 +737,6 @@
                 "list of  Professors of Mathematics",
                 "list of  Professors of English",
                 "list of  Professors of School of Interdisciplinary Design and Innovation"
-               
-
-                
             ],
             "responses": [],
             "context_set": ""
@@ -661,9 +783,6 @@
                 "who is the Senior Assistant of iiitdm",
                 "who is the Junior Technician Library",
                 "who is the Junior Technician Library of iiitdm"
-                
-
-
             ],
             "responses": [],
             "context_set": ""
@@ -703,8 +822,6 @@
                 "how is Football Ground",
                 "how is Tennis Court",
                 "how is Table Tennis Room"
-
-
             ],
             "responses": [],
             "context_set": ""
@@ -748,8 +865,18 @@
                 "club core of Gaming Club",
                 "Adventure Club",
                 "about Adventure Club",
-                "club core of Adventure Club"   
-                
+                "club core of Adventure Club",
+                "who is the club core of Cultural Club",
+                "who is the club core of Fun Club",
+                "who is the club core of Art Club",
+                "who is the club core of The Language Club",
+                "who is the club core of Dramatics Club",
+                "who is the club core of Literature Club",
+                "who is the club core of Music Club",
+                "who is the club core of Dance Club",
+                "who is the club core of Photography Club",
+                "who is the club core of Gaming Club",
+                "who is the club core of Adventure Club"
             ],
             "responses": [],
             "context_set": ""
@@ -800,11 +927,12 @@
                 "tell me about Samgatha",
                 "what is Samgatha",
                 "technical fest in iiitdm",
-                "cultral fest in iiitdm",
+                "cultural fest in iiitdm",
                 "technical fest in college",
-                "cultral fest in college",
-                "annual techno cultural festival"
-                
+                "cultural fest in college",
+                "annual techno cultural festival",
+                "Samgatha website",
+                "show url of Samgatha website"
             ],
             "responses": [],
             "context_set": ""
@@ -820,7 +948,6 @@
                 "about ssg",
                 "tell me about ssg",
                 "what is ssg"
-
             ],
             "responses": [],
             "context_set": ""
@@ -833,8 +960,12 @@
                 "tell me about Vidhai",
                 "what is Vidhai",
                 "non profit initiative in college ",
-                "what are non profit initiative in college by students"
-
+                "what are non profit initiative in college by students",
+                "vision of vidhai",
+                "what is the vision of vidhai",
+                "mission of vidhai",
+                "what is the mission of vidhai",
+                "Voluntery works in vidhai"
             ],
             "responses": [],
             "context_set": ""
@@ -853,7 +984,6 @@
                 "what are the recent Publications of iiitdm",
                 "show the list of recent Publications of college",
                 "what are the recent Publications of college"
-
             ],
             "responses": [],
             "context_set": ""
@@ -865,6 +995,7 @@
                 "show the address of iiitdm",
                 "what is the address of iiitdm",
                 "where is iiitdm located",
+                "how i will reach college",
                 "how can i reach iiitdm",
                 "how to reach iiitdm by cab",
                 "how to reach iiitdm by taxi",
@@ -900,11 +1031,6 @@
                 "how to reach college from railway station",
                 "how to reach college from airport",
                 "Is college is in kancheepuram"
-
-
-
-
-
             ],
             "responses": [],
             "context_set": ""
@@ -918,7 +1044,6 @@
                 "show me holidays",
                 "Academic Calendar of iiitdm kancheepuram",
                 "Academic Calendar of college"
-
             ],
             "responses": [],
             "context_set": ""
@@ -937,12 +1062,9 @@
                 "connect iiitdm",
                 "iiitdm office email",
                 "college office email"
-
-
             ],
             "responses": [],
             "context_set": ""
         }
     ]
 }
-

@@ -1,0 +1,16 @@
+.main{
+    display: grid;
+    grid-template-rows: 6vh 88vh 6vh;
+    /* overflow: hidden; */
+}
+.messageView{
+    display: flex;
+    flex-direction: column-reverse;
+    overflow: auto;
+}
+.header{
+    background-color: rgb(47, 65, 228);
+    color: wheat;
+    text-align: center;
+    
+}

@@ -49,6 +49,8 @@ Go to ML folder and run
 python main.py
 ```
 
+After Taining of model, copy genrated files (all modedel.tflean filed, data.pickle) to server_django folder.
+
 ### Running Django server
 ```
 python manage.py runserver
